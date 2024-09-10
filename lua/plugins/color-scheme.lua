@@ -7,6 +7,9 @@ return {
     opts = {
       transparent_bg = true,
       italic_comment = true,
+      colors = {
+        visual = "#282A36",
+      },
     },
   },
 
