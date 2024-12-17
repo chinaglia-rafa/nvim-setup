@@ -8,7 +8,8 @@ return {
       transparent_bg = true,
       italic_comment = true,
       colors = {
-        visual = "#282A36",
+        --visual = "#282A36",
+        visual = "#11131a",
       },
     },
   },
